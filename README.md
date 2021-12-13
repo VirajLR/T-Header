@@ -1,4 +1,4 @@
-# Turmex-Header
+# T-Header Powered by Viraj L R
 
 This Bash script contains Oh-My-Zsh With, command autosuggestion, syntax highlight plugins and terminal header with own name for TERMUX.
 
@@ -22,9 +22,9 @@ Download and installation steps
 
 apt update && apt install git -y
 
-git clone https://github.com/VirajLR/Turmex-Header 
+git clone https://github.com/VirajLR/T-Header 
 
-cd Turmex-Header
+cd T-Header
 
 ls
 
