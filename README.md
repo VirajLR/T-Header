@@ -22,7 +22,7 @@ Download and installation steps
 
 apt update && apt install git -y
 
-git clone https://github.com/VirajLR/T-Header 
+git clone https://github.com/VirajLR/T-Header.git 
 
 cd T-Header
 
